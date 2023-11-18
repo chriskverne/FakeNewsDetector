@@ -1,0 +1,4 @@
+We use a Logistic regression model:
+	Because the project is binary classification (Return 0 or 1)
+
+Once we've gotten our Trained Logistic regression model, we test the accuracy with the test data
